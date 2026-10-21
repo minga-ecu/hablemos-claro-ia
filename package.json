@@ -1,0 +1,13 @@
+{
+  "name": "hablemos-claro-ia",
+  "version": "1.0.0",
+  "description": "Hablemos Claro IA de MINGA: asistente anónimo y gratuito de salud sexual y menstrual para jóvenes de Ecuador",
+  "type": "module",
+  "scripts": {},
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "0.131.0"
+  }
+}
